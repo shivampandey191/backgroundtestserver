@@ -2,5 +2,6 @@
 
 commands to start the local server -
 
-npm install
-npm run dev
+1. npm install
+and then
+2. npm run dev
